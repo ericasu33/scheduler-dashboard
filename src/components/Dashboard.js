@@ -70,7 +70,7 @@ class Dashboard extends Component {
     this.socket.onmessage = event => {
       const data = JSON.parse(event.data);
 
-      if (typeof data === "object" && data.type == "SET_INTERVIEW") {
+      if (typeof data === "object" && data.type === "SET_INTERVIEW") {
         this.setState(prevState => setInterview(prevState, data.id, data.interview))
       }
     }
