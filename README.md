@@ -17,6 +17,10 @@ If you need a server & database with mock data, you can get it from
 [Interview Scheduler Api](https://github.com/ericasu33/scheduler-api)
 
 This project is based off of this [repository](https://github.com/lighthouse-labs/scheduler-dashboard)
+
+Deployed Website:
+- [Interview Scheduler](http://scheduler-reactjs.netlify.com/)
+- [Interview Scheduler Dashboard]()
 ## Setup
 
 Install dependencies with `npm install`.
