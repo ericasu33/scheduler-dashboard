@@ -23,7 +23,7 @@ Deployed Website:
 - [Interview Scheduler Dashboard](https://scheduler-dashboard-reactjs.netlify.app/)
 
 ## Screenshots
-!["Homepage"]()
+!["Homepage"](https://github.com/ericasu33/scheduler-dashboard/blob/master/docs/Interview%20Scheduler%20Dashboard.png?raw=true)
 
 !["Panel"](https://github.com/ericasu33/scheduler-dashboard/blob/master/docs/Interview%20Scheduler%20Dashboard1.png?raw=true)
 ## Setup
