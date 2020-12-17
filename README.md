@@ -21,6 +21,11 @@ This project is based off of this [repository](https://github.com/lighthouse-lab
 Deployed Website:
 - [Interview Scheduler](http://scheduler-reactjs.netlify.com/)
 - [Interview Scheduler Dashboard](https://scheduler-dashboard-reactjs.netlify.app/)
+
+## Screenshots
+!["Homepage"]()
+
+!["Panel"](https://github.com/ericasu33/scheduler-dashboard/blob/master/docs/Interview%20Scheduler%20Dashboard1.png?raw=true)
 ## Setup
 
 Install dependencies with `npm install`.
@@ -36,3 +41,11 @@ npm start
 ```sh
 npm test
 ```
+
+## Dependencies
+- Axios ^0.19.0
+- Classnames ^2.2.6
+- Lodash ^4.17.15
+- React ^16.8.6
+- React-dom ^16.8.6
+- React-scripts ^3.0.01
