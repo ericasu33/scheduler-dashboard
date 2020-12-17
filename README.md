@@ -20,7 +20,7 @@ This project is based off of this [repository](https://github.com/lighthouse-lab
 
 Deployed Website:
 - [Interview Scheduler](http://scheduler-reactjs.netlify.com/)
-- [Interview Scheduler Dashboard]()
+- [Interview Scheduler Dashboard](https://scheduler-dashboard-reactjs.netlify.app/)
 ## Setup
 
 Install dependencies with `npm install`.
